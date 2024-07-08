@@ -161,17 +161,16 @@ class App extends Component{
 		let i = new Image();
 		i.src = 'assets/explosion.gif'
 
-		//this.pulseAnim('red')
+		/*
 
+		// debugging, singleplayer mode.
+		// you can also use "offline" as a room-id to play alone.
 
-		// debugging 
-		///*
-		
 		this.network.elem('#username').value = 'test'
 		this.network.elem('#roomid').value = 'offline'
 		this.network.connect()
 		
-		//*/
+		*/
 
 	}
 
