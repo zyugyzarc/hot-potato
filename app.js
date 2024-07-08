@@ -313,7 +313,7 @@ class Popup extends Component{
 			`
 		})
 
-		this.state.teamchosen = ""
+		this.state.teamchosen = "red"
 		this.state.players_list = ""
 		this.parent = parent
 		this.started = false
