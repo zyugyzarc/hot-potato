@@ -1,7 +1,7 @@
  
 # Hot Potato
 
-Play now - [hot-potato.zyugyzarc.vercel.app](hot-potato.zyugyzarc.vercel.app)
+Play now - [hot-potato.zyugyzarc.vercel.app](https://hot-potato.zyugyzarc.vercel.app)
 
 Hot potato is a simple multiplayer peer-to-peer game made with javascript and an (optional, and low-intensity) backend database. This is built using a custom-made UI-framework (see [zyugyzarc/quizzerole](https://github.com/zyugyzarc/quizzerole)), alongside a p2p setup built on WebRTC (see [zyugyzarc/chat-app](https://github.com/zyugyzarc/chat-app)).
 
@@ -17,7 +17,7 @@ One team randomly begins with the potato. Throw the potato to the other side wit
 
 For the UI-Framework this project uses, see [zyugyzarc/quizzerole](https://github.com/zyugyzarc/quizzerole).
 
-TL;DR: Thsi project uses a JS UI-Framework I made previously (no dependecies), that is similar to React - but every "component" is a class/object instead of a factory function.
+TL;DR: This project uses a JS UI-Framework I made previously (no dependecies), that is similar to React - but every "component" is a class/object instead of a factory function.
 
 # About the Network
 
